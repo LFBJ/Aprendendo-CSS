@@ -1,0 +1,6 @@
+.contact .name { font-weight: bold; }
+.contact .phone { color: blue; }
+.contact .address { color: red; }
+
+p.intro { color: silver;}
+p .intro { color: green; }
